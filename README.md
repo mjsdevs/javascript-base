@@ -1,2 +1,2 @@
 # JS Boilerplate
-Node tempalte with express, helmet, cors, morgan, winston and babel
+Node template with express, helmet, cors, morgan, winston and babel
